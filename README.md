@@ -6,7 +6,7 @@
 <body>
 <h2>TIỆM ĐỒ ĂN VẶT - NHÓM 2 - LỚP 12 LÝ</h2>
 <p><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></p>  
-<img src="images\banhmique.png" alt="Bánh mì que">
+<img src="img\banhmique.png" alt="Bánh mì que">
 <p><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></p>  
 <img src="images\khoaitaychien.png" alt="Khoai Tây Chiên">		             
 <p><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></p>  
@@ -23,4 +23,3 @@
 <p><a href="https://www.facebook.com/xuanmai.tranngoc.739?mibextid=LQQJ4d"> Facebook chị chủ</a></p> 
 </body>  
 </html>
-		
